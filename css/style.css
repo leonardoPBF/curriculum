@@ -15,3 +15,43 @@ body{
 .navbar{
   background-color: aqua;
 }
+.position-relative{
+  background-color: rgba(0, 255, 38, 0.777);
+}
+
+.carousel-inner{
+  display: flex;
+  text-align: center;
+  height: 500px;
+}
+
+.certificado{
+  width: 780px;
+}
+.marketing{
+  margin-top: 30px;
+  margin-bottom: 30px;
+  background-color: aqua;
+}
+
+.titulo{
+  padding:20px
+}
+
+footer{
+  background-color: rgb(199, 171, 226)  ;
+}
+
+.conocimientos{
+  
+  margin-bottom: 30px;
+  background-color: rgba(0, 255, 38, 0.777);
+}
+
+.cajaCertificados{
+  margin-bottom: 30px;
+}
+
+.card-text{
+  text-justify: center;
+}
